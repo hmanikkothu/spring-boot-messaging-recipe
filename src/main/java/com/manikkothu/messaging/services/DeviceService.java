@@ -19,7 +19,9 @@ public class DeviceService {
 		
 		List<String> d = new ArrayList<String>();
 		d.add("PIXEL4X64QD1");
-		Thread.sleep(3000L);
+		
+		// Simulate processing delay
+		Thread.sleep(1000L);
 		
 		return d;
 	}
