@@ -1,1 +1,1 @@
-"# spring-boot-messaging-recipe" 
+# spring-boot-messaging-recipe
